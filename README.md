@@ -1,1 +1,1 @@
-# Algoritma-CRUD-lemleri
+# Algoritma-CRUD-İşlemleri
